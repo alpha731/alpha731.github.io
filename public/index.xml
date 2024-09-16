@@ -14,12 +14,14 @@
     <lastBuildDate>Mon, 16 Sep 2024 13:55:11 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>What I believe</title>
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Mon, 16 Sep 2024 13:55:11 +0800</pubDate>
       <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;h2 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h2&gt;
-&lt;p&gt;This is a test!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;the-things-i-do&#34;&gt;The Things I Do&lt;/h2&gt;
+&lt;p&gt;There are countless activities one can pursue, but I focus on a select few that matter to me: reading books, working out, making money, and being kind to people—especially my family.&lt;/p&gt;
+&lt;h2 id=&#34;try-and-dont-give-up&#34;&gt;Try and Don&amp;rsquo;t Give Up&lt;/h2&gt;
+&lt;p&gt;There&amp;rsquo;s one guaranteed way to fail, and that&amp;rsquo;s to stop trying!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
